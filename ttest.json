@@ -440,6 +440,14 @@
     "priority": 55
   },
   {
+  "id": "fantaiying2",
+  "name": "饭太硬备用",
+  "baseUrl": "http://fty.888484.xyz/tv",
+  "group": "normal",
+  "enabled": true,
+  "priority": 56
+  },
+  {
     "id": "suonisd",
     "name": "索尼-闪电",
     "baseUrl": "https://xsd.sdzyapi.com/api.php/provide/vod",
